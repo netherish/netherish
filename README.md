@@ -1,27 +1,23 @@
 <div align="center">
 
-# 👋 Hi, I'm netherish
+# netherish
 
-### Android developer · Kotlin enthusiast · building things that feel smooth
+### Android developer focused on Kotlin, Jetpack Compose, and polished user experiences
 
 [![GitHub followers](https://img.shields.io/github/followers/netherish?style=for-the-badge&logo=github&color=2ea043)](https://github.com/netherish)
 [![GitHub repos](https://img.shields.io/github/repos/netherish?style=for-the-badge&logo=github&color=2ea043)](https://github.com/netherish?tab=repositories)
-[![Public stats](https://img.shields.io/badge/GitHub-Profile%20Stats-6f42c1?style=for-the-badge&logo=github)](https://github.com/netherish)
 
 </div>
 
 ---
 
-## 🧑‍💻 About me
+## About
 
-- 🚀 Building **Android apps** with Kotlin, Jetpack Compose, and Material 3.
-- 🎨 I care about **smooth, polished UIs** — the details matter.
-- 🔧 I fork, customize, and ship real tools (not just toys).
-- 📄 Everything I build is **open source** — see my work below.
+I build Android applications with Kotlin, Jetpack Compose and Material 3, with particular attention to interaction design and performance. I also maintain forks of existing tools and ship complete, usable releases. All of my work is open source.
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -32,39 +28,42 @@
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
-### [Cadence Manager](https://github.com/netherish/cadence-manager)
-A smooth, advanced Android app for patching YouTube & YouTube Music, with an original Cadence identity, teal/violet equalizer artwork, and a Material 3 Expressive UI. Built on ReVanced Manager (GPL-3.0).
+### [FlashBridge](https://github.com/netherish/FlashBridge)
+
+An unrooted fastboot and ADB firmware utility that uses an Android phone with OTG support as a flashing station. Implements the USB protocols natively in Kotlin, with no bundled binaries or firmware. MIT licensed and submitted to F-Droid.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![GPL--3.0](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat)
+![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat)
 
-**[⬇️ Download the APK](https://github.com/netherish/cadence-manager/releases/latest)** · [View repo](https://github.com/netherish/cadence-manager)
+[Download the APK](https://github.com/netherish/FlashBridge/releases/latest) | [View repository](https://github.com/netherish/FlashBridge)
+
+### [Cadence Manager](https://github.com/netherish/cadence-manager)
+
+An Android application for patching YouTube and YouTube Music, with an original Cadence identity, teal and violet equalizer artwork, and a Material 3 Expressive interface. Built on ReVanced Manager and licensed GPL-3.0.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat)
+
+[Download the APK](https://github.com/netherish/cadence-manager/releases/latest) | [View repository](https://github.com/netherish/cadence-manager)
 
 ---
 
-## 📊 GitHub stats
+## GitHub statistics
 
 <div align="center">
 
 ![netherish's stats](https://github-readme-stats.vercel.app/api?username=netherish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![netherish's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netherish&layout=compact&theme=tokyonight&hide_border=true)
+![netherish's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=netherish&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 📫 Contact
+## Contact
 
-- **GitHub:** [netherish](https://github.com/netherish)
-- **Issues:** Open an issue on any of my repos — I read them all.
-
----
-
-<div align="center">
-
-*"Build it smooth. Ship it open."*
-
-</div>
+- GitHub: [netherish](https://github.com/netherish)
+- Issues: open an issue on any of my repositories.
