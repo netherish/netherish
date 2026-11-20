@@ -25,6 +25,8 @@ I build Android applications with Kotlin, Jetpack Compose and Material 3, with p
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
@@ -39,6 +41,17 @@ An unrooted fastboot and ADB firmware utility that uses an Android phone with OT
 ![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat)
 
 [Download the APK](https://github.com/netherish/FlashBridge/releases/latest) | [View repository](https://github.com/netherish/FlashBridge)
+
+### [FlashBridge PC](https://github.com/netherish/FlashBridge-PC)
+
+A single-file Windows desktop console for ADB, fastboot, and vendor service tools. Bundles platform-tools and accepted vendor utilities, with guided tool pages, a friendly Quick start screen, and a built-in ADB authorization helper. MIT licensed and not submitted to F-Droid.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Release](https://img.shields.io/badge/Release-v1.0.1-2ea043?style=flat)
+![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat)
+
+[Download the EXE](https://github.com/netherish/FlashBridge-PC/releases/latest) | [View repository](https://github.com/netherish/FlashBridge-PC)
 
 ### [Cadence Manager](https://github.com/netherish/cadence-manager)
 
