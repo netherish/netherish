@@ -53,6 +53,19 @@ A single-file Windows desktop console for ADB, fastboot, and vendor service tool
 
 [Download the EXE](https://github.com/netherish/FlashBridge-PC/releases/latest) | [View repository](https://github.com/netherish/FlashBridge-PC)
 
+### [QuietDeck](https://github.com/netherish/QuietDeck)
+
+A visual Do Not Disturb and sound-profile console for Android. QuietDeck turns ringer modes, DND filters, stream volumes, and quick presets into one glanceable system deck, with a Quick Settings tile and a local action log. MIT licensed.
+
+![QuietDeck banner](https://raw.githubusercontent.com/netherish/QuietDeck/main/docs/banner.svg)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat)
+
+[View repository](https://github.com/netherish/QuietDeck)
+
 ### [Cadence Manager](https://github.com/netherish/cadence-manager)
 
 An Android application for patching YouTube and YouTube Music, with an original Cadence identity, teal and violet equalizer artwork, and a Material 3 Expressive interface. Built on ReVanced Manager and licensed GPL-3.0.
