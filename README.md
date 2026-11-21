@@ -64,7 +64,7 @@ A visual Do Not Disturb and sound-profile console for Android. QuietDeck turns r
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat)
 
-[View repository](https://github.com/netherish/QuietDeck)
+[Download the APK](https://github.com/netherish/QuietDeck/releases/latest) | [View repository](https://github.com/netherish/QuietDeck)
 
 ### [Cadence Manager](https://github.com/netherish/cadence-manager)
 
